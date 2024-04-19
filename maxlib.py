@@ -10,7 +10,7 @@ import random
 from socket import socket,AF_INET,SOCK_DGRAM
 from sys import modules
 import time
-import hashlib
+#import hashlib
 #instruction:
 version=1.0
 creater="Kinecraft_kk"
